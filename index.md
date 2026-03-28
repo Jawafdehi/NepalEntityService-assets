@@ -9,9 +9,9 @@ This repository hosts static images and assets for the **Nepal Entity Service (N
 
 NES is a comprehensive Python package for managing Nepali public entities with API and scraping capabilities. It provides entity and relationship management with version history, designed specifically for Nepali political, social, and organizational structures.
 
-For the main NES project documentation, visit [nes.newnepal.org](https://nes.newnepal.org).
+For the main NES project documentation, visit [nes.jawafdehi.org](https://nes.jawafdehi.org).
 
-**GitHub Repository**: [NewNepal-org/NepalEntityService-assets](https://github.com/NewNepal-org/NepalEntityService-assets)
+**GitHub Repository**: [Jawafdehi/NepalEntityService-assets](https://github.com/Jawafdehi/NepalEntityService-assets)
 
 ## Assets
 
