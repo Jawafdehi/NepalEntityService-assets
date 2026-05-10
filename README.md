@@ -27,3 +27,7 @@ Store assets in the `assets/` directory:
 
 Push to GitHub and enable Pages in repository settings. Site will be available at:
 `https://yourusername.github.io/NepalEntityService-assets`
+
+## License
+
+This project is licensed under the [Hippocratic License Version 3.0](./LICENSE) — see [LICENSING.md](./LICENSING.md) for details.
